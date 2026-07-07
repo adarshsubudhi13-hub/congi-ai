@@ -77,17 +77,6 @@ Designed for students, designers, developers, researchers, and content creators,
 
 ---
 
-## 📷 Screenshots
-
-Add your screenshots here.
-
-Example:
-
-```
-<img width="786" height="758" alt="image" src="https://github.com/user-attachments/assets/8d7c8470-a710-4bac-acb8-423027abccc8" />
-
-```
-
 ---
 
 ## 🌟 Future Enhancements
